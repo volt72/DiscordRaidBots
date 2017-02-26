@@ -9,7 +9,7 @@ Discord is a free chatting app for gamers and others alike, similar to other wel
 
 **Don't terminate me for releasing code, I already have stuff on you for many things. If I do get terminated/IP Banned from releasing a bunch of code I will release this information with Vexxed, I'm working with him to expose Discord Inc. atm, If I get terminated I will release all emails between me and you, all it's headers, and what I can expose you for.**
 
-**_So just be warned* :stuck_out_tongue:. *I want to get on your good side, not bad side._**
+**_So just be warned_ :stuck_out_tongue:. _I want to get on your good side, not bad side._**
 
 
 # Getting Started
