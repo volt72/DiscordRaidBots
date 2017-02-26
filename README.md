@@ -43,7 +43,11 @@ More information can be found on the GNU Public License 3.0 at [**`/LICENSE`**](
 # Credits
 
 bin-sama or bin-senpai for writing and updating most of the source.
+
 Neura for starting the source and creating the most basic version.
+
 Kai for some ideas for it
+
 HotShot - For the idea of remote messages and being a really good friend
+
 Singular and Mvulcan - for the idea of having a Web Panel
