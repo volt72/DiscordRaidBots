@@ -38,13 +38,15 @@ Commands and the rest of the docs can be found [here.](https://github.com/ejecte
 
 If you would like to commit or modify the source, feel free to do so! Please be sure to contact me when you do so becuase I'd love to hear about what you did!
 
+To those out there who are looking at the source: I hope you have a great time learning about C# and what you can do with it.
+
 Discord raid bots were coded in C# using the Discord.NET wrapper for the Discord API created by RougeExcepetion and some credit to foxbot.
 
 (The wrapper can be found [here](https://github.com/RogueException/Discord.Net) or on NuGet as **Discord.NET** _(from the package manager console._))
 
 # Credits
 
-Neura - writing the very core with me, and sticking with me until the end, a core man of the project.
+Neura - writing the very core with me, and sticking with me until the end, a core man of the project. @NeuraFTW
 
 HotShot - The idea of remote messages and remote controls, DM spamming, being a really good friend, and giving me the idea of creating a web panel to control it.
 
@@ -112,7 +114,7 @@ You shouldn't raid in the first place.
 
 I'm releasing this under the GNU Public License 3.0 because of a few personal reasons.
 
-All the code that is public is meant to be for educational purposes only and I hope it helps you all.
+All the code that is public is meant to be for educational purposes only and I hope it helps you all. I have included some core features of C# in the code, such as enumerables, Lists, arrays, methods, classes, libraries, wrappers, JSON, and many other cool things that should be useful to everyone who is trying to learn.
 
 >The GNU General Public License is a free, copyleft license for software and other kinds of works.
 >
