@@ -9,7 +9,7 @@ If your someone I know and I haven't added your name to this list or server list
 
 # Message to Discord Staff
 
-Thank you for making Discord. Discord has permanently changed my life since day 1. Ever since I discovered discord, I found new friends, new people, new **life**, that changed who I am and how I live. I found my closest friends on Discord and I can't thank you enough for makng this amazing app. I've gotten so much help to get to where I am now. Thank you Discord Inc.
+### Thank you for making Discord. Discord has permanently changed my life since day 1. Ever since I discovered discord, I found new friends, new people, new **life**, that changed who I am and how I live. I found my closest friends on Discord and I can't thank you enough for makng this amazing app. I've gotten so much help to get to where I am now. Thank you Discord Inc.
 
 
 **Don't terminate me for releasing code, I already have stuff on you for many things. If I do get terminated/IP Banned from releasing a bunch of code I will release this information with Vexxed, I'm working with him to expose Discord Inc. atm, If I get terminated I will release all emails between me and you, all it's headers, and what I can expose you for.**
