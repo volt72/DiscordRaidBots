@@ -9,6 +9,9 @@ If your someone I know and I haven't added your name to this list or server list
 
 # Message to Discord Staff
 
+Thank you for making Discord. Discord has permanently changed my life since day 1. Ever since I discovered discord, I found new friends, new people, new **life**, that changed who I am and how I live. I found my closest friends on Discord and I can't thank you enough for makng this amazing app. I've gotten so much help to get to where I am now. Thank you Discord Inc.
+
+
 **Don't terminate me for releasing code, I already have stuff on you for many things. If I do get terminated/IP Banned from releasing a bunch of code I will release this information with Vexxed, I'm working with him to expose Discord Inc. atm, If I get terminated I will release all emails between me and you, all it's headers, and what I can expose you for.**
 
 **_So just be warned_ :stuck_out_tongue:. _I want to get on your good side, not bad side._**
@@ -50,6 +53,10 @@ Proto - Helping me write a better parsing system and optimizing the code, (versi
 
 Lyon - Helping me write a server whitelist (prevent certain servers from being raided).
 
+Moh - One of the greatest friends ever! Has always been there for me at all times, even when times were hard!! I can't stop thanking him enough.
+
+Logan - One of my C# students that excelled far is certain things, my own student helped me with Discord.NET and C# here and there. I am very proud of you and hope you get a great job as a programmer. 
+
 Aaron and Jet - **`"It's time to stop."`**, helping me realize I need to stop raiding.
 
 clv - I honestly wanted to put your name here because I honestly just look upto you as you create discord bots, your sources are amazing and I hope to continue working with you.
@@ -58,7 +65,7 @@ Martmists - For helping me learn about web api's and learn about /ack.
 
 Users from the Discord API server - Helping me with problems that occured along the way.
 
-Discord Developers - For creating the user/bot API; For helping out in certain areas, and telling me **`"It's time to stop"`**.
+Discord Developers - Thank you for making discord. For creating the user/bot API; For helping out in certain areas, and telling me **`"It's time to stop"`**.
 
 ### Tips
 Don't get caught, don't raid a server that I know of either:
