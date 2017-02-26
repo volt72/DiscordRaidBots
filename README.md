@@ -5,7 +5,7 @@ Discord is a free chatting app for gamers and others alike, similar to other wel
 
 **Discord has an API for creating bots that can moderate Discord servers and Discord users alike, and there are limits to how this API is used called the API Terms of Service. This application does abuse the Discord API and should not be used directly. This was created for educational purposes only.**
 
-If your someone I know and I haven't added your name to this list or server list, don't hate me for it :frowning:, I just forgot, just dm me or something about it.
+If your someone I know and I haven't added your name to this list or server list, don't hate me for it :frowning:, I just forgot, just dm me or something about it. (excuse my grammer and spelling please).
 
 # Message to Discord Staff
 
@@ -61,6 +61,8 @@ Aaron and Jet - **`"It's time to stop."`**, helping me realize I need to stop ra
 
 clv - I honestly wanted to put your name here because I honestly just look upto you as you create discord bots, your sources are amazing and I hope to continue working with you.
 
+Mudock Yatho -  A great discord bot person, one of the coolest selfbots I've ever seen, and an **absolute** expert at lua. Great friend and overall great at acting like a retard. Hiliarious at times. 
+
 Martmists - For helping me learn about web api's and learn about /ack. 
 
 Users from the Discord API server - Helping me with problems that occured along the way.
@@ -99,7 +101,7 @@ Especially don't raid the server of my senpai's::
 * Sumonex
 * any server that is owned by a rain member (Octillion, Customality, Louka, and 3dsboy08 are an exception)
 
-If your caught, well, rip you. Don't raid those places, I am friends with the owners' of many of them and I'm sure you would'nt like your server getting spammed either.
+If your caught, well, rip you. Don't raid those places, I am friends with the owners' of many of them and I'm sure you wouldn't like your server getting spammed either.
 
 You shouldn't raid in the first place.
 
