@@ -30,13 +30,16 @@ Within the same folder, you should find `token.txt` and `snowflake.txt`:
 1. **token.txt:** The text file in which bot or user tokens are placed in.
 2. **snowflake.txt:** The text file in which the snowflake(s) of the people who are whitelisted to use the bot's commands.
 
-Snowflakes and tokens need to be formatted in a certain way that can be found [here](https://github.com/)
+Snowflakes and tokens need to be formatted in a certain way that can be found [here.](https://github.com/ejectedmatrix/DiscordRaidBots/blob/master/docs/format.md)
+
+Commands and the rest of the docs can be found [here.](https://github.com/ejectedmatrix/DiscordRaidBots/blob/master/docs/README.md)
 
 # For Developers
 
 If you would like to commit or modify the source, feel free to do so! Please be sure to contact me when you do so becuase I'd love to hear about what you did!
 
 Discord raid bots were coded in C# using the Discord.NET wrapper for the Discord API created by RougeExcepetion and some credit to foxbot.
+
 (The wrapper can be found [here](https://github.com/RogueException/Discord.Net) or on NuGet as **Discord.NET** _(from the package manager console._))
 
 # Credits
