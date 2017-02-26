@@ -5,12 +5,13 @@ Discord is a free chatting app for gamers and others alike, similar to other wel
 
 **Discord has an API for creating bots that can moderate Discord servers and Discord users alike, and there are limits to how this API is used called the API Terms of Service. This application does abuse the Discord API and should not be used directly. This was created for educational purposes only.**
 
+If your someone I know and I haven't added your name to this list or server list, don't hate me for it :(, I just forgot, just dm me or something about it.
+
 # Message to Discord Staff
 
 **Don't terminate me for releasing code, I already have stuff on you for many things. If I do get terminated/IP Banned from releasing a bunch of code I will release this information with Vexxed, I'm working with him to expose Discord Inc. atm, If I get terminated I will release all emails between me and you, all it's headers, and what I can expose you for.**
 
 **_So just be warned_ :stuck_out_tongue:. _I want to get on your good side, not bad side._**
-
 
 # Getting Started
 
@@ -33,7 +34,7 @@ Snowflakes and tokens need to be formatted in a certain way that can be found [h
 If you would like to commit or modify the source, feel free to do so! Please be sure to contact me when you do so becuase I'd love to hear about what you did!
 
 Discord raid bots were coded in C# using the Discord.NET wrapper for the Discord API created by RougeExcepetion and some credit to foxbot.
-(The wrapper can be found [here](https://github.com/RogueException/Discord.Net) or on NuGet.)
+(The wrapper can be found [here](https://github.com/RogueException/Discord.Net) or on NuGet as **Discord.NET** _(from the package manager console._))
 
 # Credits
 
@@ -52,6 +53,8 @@ Lyon - Helping me write a server whitelist (prevent certain servers from being r
 Aaron and Jet - **`"It's time to stop."`**, helping me realize I need to stop raiding.
 
 clv - I honestly wanted to put your name here because I honestly just look upto you as you create discord bots, your sources are amazing and I hope to continue working with you.
+
+Martmists - For helping me learn about web api's and learn about /ack. 
 
 Users from the Discord API server - Helping me with problems that occured along the way.
 
@@ -85,6 +88,9 @@ Especially don't raid the server of my senpai's::
 * /r/HappyWars
 * Keen Software House
 * Raidforums
+* Martmists
+* Sumonex
+* any server that is owned by a rain member (Octillion, Customality, Louka, and 3dsboy08 are an exception)
 
 If your caught, well, rip you. Don't raid those places, I am friends with the owners' of many of them and I'm sure you would'nt like your server getting spammed either.
 
