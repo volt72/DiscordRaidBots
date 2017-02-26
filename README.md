@@ -8,17 +8,17 @@ Discord is a free chatting app for gamers and others alike, similar to other wel
 
 # Getting Started
 
-To use the raid bots, go into **/build/** folder and find the latest version number, download **build.zip** from there, extract to a folder and edit `config.json` to meet your specified needs.
+To use the raid bots, go into **`/build/`** folder and find the latest version number, download **`build.zip`** from there, extract to a folder and edit `config.json` to meet your specified needs.
 
 In `config.json` you are going to find 2 peices of JSON data, **invite-code** and **owner-snowflake.**
 
-1.**invite-code:** The invite code to join on launch (the bots' hub, essentially).
-2.**owner-snowflake:** The snowflake (userID) of the owner. Used to provide admin only commands to the owner.
+1. **invite-code:** The invite code to join on launch (the bots' hub, essentially).
+2. **owner-snowflake:** The snowflake (userID) of the owner. Used to provide admin only commands to the owner.
 
 Within the same folder, you should find `token.txt` and `snowflake.txt`:
 
-1.**token.txt:** The text file in which bot or user tokens are placed in.
-2.**snowflake.txt:** The text file in which the snowflake(s) of the people who are whitelisted to use the bot's commands.
+1. **token.txt:** The text file in which bot or user tokens are placed in.
+2. **snowflake.txt:** The text file in which the snowflake(s) of the people who are whitelisted to use the bot's commands.
 
 Snowflakes and tokens need to be formatted in a certain way that can be found [here](https://github.com/)
 
