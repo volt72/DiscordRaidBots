@@ -6,12 +6,11 @@ Discord is a free chatting app for gamers and others alike, similar to other wel
 **Discord has an API for creating bots that can moderate Discord servers and Discord users alike, and there are limits to how this API is used called the API Terms of Service. This application does abuse the Discord API and should not be used directly. This was created for educational purposes only.**
 
 # Message to Discord Staff
-
-```
+**
 Don't terminate me for releasing code, I already have stuff on you for many things. If I do get terminated/IP Banned from releasing a bunch of code I will release this information with Vexxed, I'm working with him to expose Discord Inc. atm, If I get terminated I will release all emails between me and you, all it's headers, and what I can expose you for.
 
-So just be warned :stuck_out_tongue:. I want to get on your good side, not bad side.
-```
+*So just be warned :stuck_out_tongue:. I want to get on your good side, not bad side.*
+**
 
 # Getting Started
 
