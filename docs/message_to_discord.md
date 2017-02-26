@@ -1,5 +1,8 @@
 # Discord
 
+### Discord Staff Team:
+
+
 Discord has changed my life since I ever found it.
 
 I honestly started on discord with no idea what to do, I was ready to leave and I soon realized the power and greatness of discord.
@@ -65,4 +68,5 @@ Thank you discord for helping me find my friends and helping get me to where I a
 To the team at Discord INC:
 
 Thank you,
- ~bin.
+
+   ~bin.
