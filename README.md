@@ -5,7 +5,7 @@ Discord is a free chatting app for gamers and others alike, similar to other wel
 
 **Discord has an API for creating bots that can moderate Discord servers and Discord users alike, and there are limits to how this API is used called the API Terms of Service. This application does abuse the Discord API and should not be used directly. This was created for educational purposes only.**
 
-If your someone I know and I haven't added your name to this list or server list, don't hate me for it :(, I just forgot, just dm me or something about it.
+If your someone I know and I haven't added your name to this list or server list, don't hate me for it :frowning:, I just forgot, just dm me or something about it.
 
 # Message to Discord Staff
 
