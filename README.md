@@ -57,32 +57,34 @@ Users from the Discord API server - Helping me with problems that occured along 
 
 Discord Developers - For creating the user/bot API; For helping out in certain areas, and telling me **`"It's time to stop"`**.
 
-###### Tips
-Don't get caught, don't raid a server that I know of, examples:
+### Tips
+Don't get caught, don't raid a server that I know of either:
 
-*Dyno server
-*LFG server
-*/r/LoveLive
-*/r/Overwatch
-*/r/RocketLeague
-*/r/WatchDogs
-*Discord Guide
-*Discord Testers
-*Discord Developers
-*Discord API
-*Discord Linux
-*Discord Game Nights
-*Elysian Empire
-*Rain
-*/r/islam
-*NGNL
-*HH Server
-*The Portal
-*Vexxed
-*The Coding Den
-*/r/HappyWars
-*Keen Software House
-*Raidforums
+Especially don't raid the server of my senpai's::
+
+* Dyno server
+* LFG server
+* /r/LoveLive
+* /r/Overwatch
+* /r/RocketLeague
+* /r/WatchDogs
+* Discord Guide
+* Discord Testers
+* Discord Developers
+* Discord API
+* Discord Linux
+* Discord Game Nights
+* Elysian Empire
+* Rain
+* /r/islam
+* NGNL
+* HH Server
+* The Portal
+* Vexxed
+* The Coding Den
+* /r/HappyWars
+* Keen Software House
+* Raidforums
 
 If your caught, well, rip you. Don't raid those places, I am friends with the owners' of many of them and I'm sure you would'nt like your server getting spammed either.
 
