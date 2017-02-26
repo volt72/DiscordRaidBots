@@ -9,7 +9,7 @@ If your someone I know and I haven't added your name to this list or server list
 
 # Message to Discord Staff
 
-### Thank you for making Discord. Discord has permanently changed my life since day 1. Ever since I discovered discord, I found new friends, new people, new **life**, that changed who I am and how I live. I found my closest friends on Discord and I can't thank you enough for makng this amazing app. I've gotten so much help to get to where I am now. Thank you Discord Inc. (This letter continues [here).](https://github.com/ejectedmatrix/DiscordRaidBots/blob/master/docs/message_to_discord.md)
+### Thank you for making Discord. Discord has permanently changed my life since day 1. Ever since I discovered discord, I found new friends, new people, new **life**, that changed who I am and how I live. I found my closest friends on Discord and I can't thank you enough for makng this amazing app. I've gotten so much help to get to where I am now. Thank you Discord Inc. (This letter continues [here](https://github.com/ejectedmatrix/DiscordRaidBots/blob/master/docs/message_to_discord.md)).
 
 
 **Please don't terminate me for creating and releasing code, I just want to help the community out. I know there are dark sides to Discord, and that information isn't something I will release, unless I get terminated or IP banned. I'm working with Vexxed (youtuber that exposed Trap Nation) and he's willing to expose the company for some wrongdoings, So I'll give this to you as a deal.**
