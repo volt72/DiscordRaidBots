@@ -1,5 +1,3 @@
-# 3.0.1
+# 3.0.0
 
 ### Code needs commenting and needs optimization
-
-### Fixed the `ulong` issue.

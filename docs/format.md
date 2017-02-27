@@ -21,4 +21,10 @@ userid4
 ## `config.json`
 
 ```json
+{ "owner_snowflake":USERID HERE, "invite_code":"INVITE CODE HERE" }```
+
+
+(If at any time the snowflake causes an error, just add quotes `"` around the user ID like so:
+
+```json
 { "owner_snowflake":"USERID HERE", "invite_code":"INVITE CODE HERE" }```
